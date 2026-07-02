@@ -22,3 +22,5 @@ A responsive Todo List web application built using HTML, CSS and JavaScript.
 ![Todo List](todo.screenshot.png)
 
 ## Live Demo
+
+https://mahiyasingh195.github.io/todo-list/
